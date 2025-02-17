@@ -31,4 +31,19 @@ git commit -m "added"
   git remote -v
   git remote set-url origin https://T @github.com /USERNAME /REPONAME 
   git remote -v
-  git push origin master
+  git push origin 
+  
+  to delete history of git:-
+pip install git-filter-repo
+path -m pip install --upgrade pip
+pip show git-filter-repo
+python -m git_filter_repo --help
+git filter-repo --force --invert-paths --path github-token.txt
+git remote -v
+git remote add origin ....
+git remote set-url origin ....
+git remote -v
+git push origin master
+
+
+
