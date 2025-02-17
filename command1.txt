@@ -1,26 +1,19 @@
-
-  0.060 git status
- git status
- git commit -m "added"
-   git config --global user.name "Aartilank… 
-     git config --global user.email "aartilan… 
-    0.591 git commit -m "added"
-   git rm --cached .\test.py
-  git status
-   git rm --cached .\testing.py
-    git status
+git status
+git commit -m "added"
+git config --global user.name "Aartilank… 
+git config --global user.email "aartilan… 
+git commit -m "added"
+git rm --cached .\test.py
 git add .\test.py
 git status
 git add .\testing.py
 git status
 git status
 git commit -m "added"
-  git config --global user.name "Aartilanke"
-    git config --global user.email "aartilanke3108@gmail.com"
-  git comgit rm --cagit rm --cached .\testing.py
-  git status
-  history
- history
+git config --global user.name "Aartilanke"
+git config --global user.email "aartilanke3108@gmail.com"
+git comgit rm --cagit rm --cached .\testing.py
+git status
   git status
   git add .
   git status
@@ -40,7 +33,7 @@ pip show git-filter-repo
 python -m git_filter_repo --help
 git filter-repo --force --invert-paths --path github-token.txt
 git remote -v
-git remote add origin ....
+git remote add origin https....
 git remote set-url origin ....
 git remote -v
 git push origin master
