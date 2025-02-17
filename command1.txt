@@ -29,6 +29,6 @@ git commit -m "added"
   git remote -v
   git push origin master
   git remote -v
-  git remote set-url origin https://TOKEN@github.com/USERNAME/REPONAME
+  git remote set-url origin https://T @github.com /USERNAME /REPONAME 
   git remote -v
   git push origin master
