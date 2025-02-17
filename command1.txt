@@ -1,4 +1,4 @@
-git add .\test.py   0.151 git status   0.192 git add .\testing.py
+
   0.060 git status
  git status
  git commit -m "added"
@@ -9,36 +9,26 @@ git add .\test.py   0.151 git status   0.192 git add .\testing.py
   git status
    git rm --cached .\testing.py
     git status
-  //
-  1        0.144 try { . "c:\Users\245472\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
-   2        0.085 & C:/Users/245472/AppData/Local/Programs/Python/Python313/python.exe f:/github-for-devops-woekshop/test.py
-   3        0.458 git add .\test.py
-   4        0.151 git status
-   5        0.192 git add .\testing.py
-   6        0.060 git status
-   7        0.059 git status
-   8        0.492 git commit -m "added"
-   9        0.073   git config --global user.name "Aartilanke"
-  10        0.066   git config --global user.email "aartilanke3108@gmail.com"
-  11        0.591 git commit -m "added"
-  12        0.068 git rm --cached .\test.py
-  13        0.059 git status
-  14        0.069 git rm --cached .\testing.py
-  15        0.068 git status
-  16        0.067 history
-  17        0.010 history
-  18        0.062 git status
-  19        0.239 git add .
-  20        0.062 git status
-  21        0.585 git commit -m "added git command"
-  22        0.079 git remote add origin SSHLINK
-  23        0.064 git remote -V
-  24        0.063 git remote -v
-  25       31.522 git push origin master
-  26        0.085 git remote -v
-  27        0.136 git remote set-url origin https://TOKEN@github.com/USERNAME/REPONAME.git
-  28        0.092 git remote -v
-  29       20.316 git push origin master
-  30        0.135 git remote set-url origin https://TOKEN@github.com/USERNAME/REPONAME.git
-  31        0.130 git remote -v
-  32       19.945 git push origin master
+git add .\test.py
+git status
+git add .\testing.py
+git status
+git status
+git commit -m "added"
+  git config --global user.name "Aartilanke"
+    git config --global user.email "aartilanke3108@gmail.com"
+  git comgit rm --cagit rm --cached .\testing.py
+  git status
+  history
+ history
+  git status
+  git add .
+  git status
+  git commit -m "added git command"
+  git remote add origin SSHLINK
+  git remote -v
+  git push origin master
+  git remote -v
+  git remote set-url origin https://TOKEN@github.com/USERNAME/REPONAME.git
+  git remote -v
+  git push origin master
