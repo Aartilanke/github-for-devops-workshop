@@ -31,7 +31,7 @@ git add .\test.py   0.151 git status   0.192 git add .\testing.py
   19        0.239 git add .
   20        0.062 git status
   21        0.585 git commit -m "added git command"
-  22        0.079 git remote add origin git@github.com:Aartilanke/github-for-devops-workshop.git
+  22        0.079 git remote add origin SSHLINK
   23        0.064 git remote -V
   24        0.063 git remote -v
   25       31.522 git push origin master
